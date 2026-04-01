@@ -47,3 +47,5 @@ add_shortcode('listing_map', function() {
         </div>
     </div>';
 });
+
+// Test CI/CD et Key Vault pour la CMC
